@@ -1,7 +1,7 @@
 
 
 body {
-   background-color: #00bfff ;
+   background-color: white ;
    background-size: cover ;
 }
 h4 {
@@ -25,7 +25,7 @@ h4 {
 #main {
    width: 510px;
    height: 375px;
-   border: 7px solid snow;
+   border: 7px solid black;
    background-image: url("https://www.freakytravel.com/wp-content/uploads/hiker-ocean-extreme.jpg");
    background-repeat: no-repeat;
    background-size: cover;
