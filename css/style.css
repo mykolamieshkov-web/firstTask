@@ -1,0 +1,78 @@
+
+
+body {
+   background-color: #00bfff ;
+   background-size: cover ;
+}
+h4 {
+   color: gray;
+   text-align: center;
+   font-size: 2vw;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   padding: 5px;
+   opacity: 0.3;
+   overflow: hidden;
+}     
+#header {
+   text-align: center;
+   text-shadow: 0 0 3px gray;
+   font-style: italic;
+   font-size: 3vw;
+   font-weight: 300;
+   opacity: 0.4;
+   padding: 0;
+}
+#main {
+   width: 510px;
+   height: 375px;
+   border: 7px solid snow;
+   background-image: url("https://www.freakytravel.com/wp-content/uploads/hiker-ocean-extreme.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   text-align: center;
+   max-width: 100%;
+   display: flex;
+   justify-content: center;  
+}
+#text {
+   font-size: 20px;
+   color: gray;
+   font-style:normal;
+   overflow: hidden;
+   padding: 20px;
+}
+
+.list{
+	margin: 0 0 50px 0;
+}
+
+.list li{
+	font-size: 24px;
+	margin: 0 0 15px 0;
+	background: url('/img/li.svg') left 5px no-repeat;
+	padding: 0px 0px 0px 30px;
+   list-style: none;
+}
+#green{
+   color: #99ff99;
+}
+#bald {
+   font-weight: bold;
+}
+#out {
+   text-decoration: line-through;
+}
+#button {
+   border-radius: 40%;
+   width: 220px;
+   height: 40px;
+   text-align: center;
+   color: white;
+   background-color:#99ff99;
+   background-size: cover;
+   border: 1px sold white;
+   padding: 0 0 0 20px;
+}
+   
+  
